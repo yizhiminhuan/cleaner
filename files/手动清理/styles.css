@@ -955,3 +955,25 @@
   width:426px;
   word-wrap:break-word;
 }
+#u65 {
+  position:absolute;
+  left:580px;
+  top:20px;
+  width:287px;
+  height:32px;
+  font-size:28px;
+}
+#u65_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:287px;
+  height:32px;
+}
+#u66 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:287px;
+  white-space:nowrap;
+}
