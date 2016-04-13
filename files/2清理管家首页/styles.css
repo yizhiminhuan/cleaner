@@ -1918,3 +1918,25 @@
   width:287px;
   white-space:nowrap;
 }
+#u125 {
+  position:absolute;
+  left:40px;
+  top:694px;
+  width:470px;
+  height:332px;
+  font-size:18px;
+}
+#u125_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:470px;
+  height:332px;
+}
+#u126 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:470px;
+  word-wrap:break-word;
+}
