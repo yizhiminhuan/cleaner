@@ -312,52 +312,26 @@
 }
 #u22 {
   position:absolute;
-  left:50px;
-  top:413px;
-  width:81px;
-  height:21px;
-  font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';
-  font-weight:200;
-  font-style:normal;
-  font-size:20px;
-  color:#FFFFFF;
-}
-#u22_img {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:81px;
-  height:21px;
-}
-#u23 {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:81px;
-  white-space:nowrap;
-}
-#u24 {
-  position:absolute;
   left:220px;
   top:580px;
-  width:235px;
+  width:181px;
   height:19px;
   font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';
   font-weight:200;
   font-style:normal;
   font-size:18px;
 }
-#u24_img {
+#u22_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:235px;
+  width:181px;
   height:19px;
 }
-#u25 {
+#u23 {
   position:absolute;
   left:0px;
   top:0px;
-  width:235px;
+  width:181px;
   white-space:nowrap;
 }
